@@ -222,16 +222,15 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {91054649,130760959,124006976,0,tonumber(our_id)},--Sudo users
+    sudo_users = {(136888679)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TeleGamer Anti Spam Bot v2.0 
-  Channel : @TELEGAMERCH
-  Admin : @MEHRPOUYA81
-  @MT246
+    about_text = [[TeleSmoke Anti Spam Bot v2.0 
+  Channel : @TeleSmoke
+  Admin : @Mr_Vigeo
   Powered by :
-  TELE GAMER TEAM
+  TELE SMOKE TEAM
 ]],
     help_text = [[
 لیست دستورات :
@@ -357,7 +356,7 @@ fosh bede be name
 !helppv
 دستورات هلپ پی وی
 
-!telegamer
+!teleSmoke
 توضیحات ضد اسپم تله گیمر
 
 * شما میتوانید از ! و / استفاده کنید. 
